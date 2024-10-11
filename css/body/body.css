@@ -2,3 +2,43 @@
   width: 100%;
   height: 540px;
 }
+
+/* section */
+
+.i-want {
+  position: relative;
+  width: 100%;
+  height: 81px;
+  padding: 15px 0;
+}
+
+.row-iwant {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-left {
+  color: #141ed2;
+  font-size: 18px;
+  font-weight: 700;
+  width: 523px;
+  height: 48px;
+  text-align: start;
+  padding: 0 15px;
+  line-height: 40px;
+  border: 1px solid white;
+  cursor: pointer;
+}
+
+.btn-right {
+  text-align: center;
+  width: 165px;
+  height: 48px;
+  background-color: rgb(20, 30, 210);
+  color: white;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 50px;
+  margin: 0 15px;
+}
